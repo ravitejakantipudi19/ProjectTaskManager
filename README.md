@@ -149,4 +149,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact [your-email@example.com].
+If you have any questions or suggestions, feel free to contact [ravitejakantipudi19@gmail.com].
